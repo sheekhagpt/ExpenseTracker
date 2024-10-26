@@ -1,1 +1,2 @@
 # ExpenseTracker
+Author - Sheekha Gupta
